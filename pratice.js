@@ -22,7 +22,7 @@ console.log(false+true);
 false-true
 console.log(false-true);
 
-// Interview Question-------
+// Interview Question-----------------------------------------------------------------------
 // Different between null vs undefiend--------------
 
 var useless= null;
@@ -34,9 +34,36 @@ var imstandby;
 console.log(imstandby);
 console.log(typeof(imstandby));
 
-// what is Nan?----------
+// what is Nan?----------------------------------------------------------------------------
 
 // -it is a property of the global object
 // - in other words, it is a variable in global scope
 // -The initial value of NaN is Not-a-number.
 
+var phonenumber = 9137627774;
+var myName="pratik";
+
+// console.log(isNaN(phonenumber));
+// console.log(isNAN(myName));
+
+// if(isNaN(myName)){
+//     console.log("plz enter valid number");
+// }
+
+//NaN pratice--------------------------------------------------------------------------------
+
+// NaN===NaN
+// Number.NaN ===NaN
+// isNaN(NaN)
+// isNaN(Number.NaN);
+// Number.isNaN(NaN);
+
+console.log(NaN===NaN);
+console.log(Number.NaN ===NaN);
+console.log(Number.NaN);
+console.log(isNaN(NaN));
+console.log(Number.isNaN(NaN));
+
+// EXPRESSIONS AND OPERATORS---------------------------------------------------------------
+
+console.log(5+8);
