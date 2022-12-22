@@ -40,8 +40,8 @@ console.log(typeof(imstandby));
 // - in other words, it is a variable in global scope
 // -The initial value of NaN is Not-a-number.
 
-var phonenumber = 9137627774;
-var myName="pratik";
+// var phonenumber = 9137627774;
+// var myName="pratik";
 
 // console.log(isNaN(phonenumber));
 // console.log(isNAN(myName));
@@ -58,12 +58,10 @@ var myName="pratik";
 // isNaN(Number.NaN);
 // Number.isNaN(NaN);
 
-console.log(NaN===NaN);
-console.log(Number.NaN ===NaN);
-console.log(Number.NaN);
-console.log(isNaN(NaN));
-console.log(Number.isNaN(NaN));
+// console.log(NaN===NaN);
+// console.log(Number.NaN ===NaN);
+// console.log(Number.NaN);
+// console.log(isNaN(NaN));
+// console.log(Number.isNaN(NaN));
 
-// EXPRESSIONS AND OPERATORS---------------------------------------------------------------
 
-console.log(5+8);
