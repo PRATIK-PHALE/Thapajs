@@ -1,38 +1,38 @@
-10+"20"
-console.log(10+"20");
-9-"5"
-console.log(9 -"5"); //bug
+// 10+"20"
+// console.log(10+"20");
+// 9-"5"
+// console.log(9 -"5"); //bug
 
-"java"+"script"
-console.log("java "+" script");
-""+""
-console.log(""+"");
-""+0
-console.log(""+0);
-"vinod"+"thapa"
-console.log("vinod"+"thapa");
-console.log("vinod"-"thapa");
+// "java"+"script"
+// console.log("java "+" script");
+// ""+""
+// console.log(""+"");
+// ""+0
+// console.log(""+0);
+// "vinod"+"thapa"
+// console.log("vinod"+"thapa");
+// console.log("vinod"-"thapa");
 
-true+true
-console.log(true+true);
-true+false
-console.log(true+false);
-false+true
-console.log(false+true);
-false-true
-console.log(false-true);
+// true+true
+// console.log(true+true);
+// true+false
+// console.log(true+false);
+// false+true
+// console.log(false+true);
+// false-true
+// console.log(false-true);
 
-// Interview Question-----------------------------------------------------------------------
-// Different between null vs undefiend--------------
+// // Interview Question-----------------------------------------------------------------------
+// // Different between null vs undefiend--------------
 
-var useless= null;
-console.log(useless);                               
-console.log(typeof(useless));
+// var useless= null;
+// console.log(useless);                               
+// console.log(typeof(useless));
 
 
-var imstandby;
-console.log(imstandby);
-console.log(typeof(imstandby));
+// var imstandby;
+// console.log(imstandby);
+// console.log(typeof(imstandby));
 
 // what is Nan?----------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ console.log(typeof(imstandby));
 // var myName="pratik";
 
 // console.log(isNaN(phonenumber));
-// console.log(isNAN(myName));
+// console.log(isNaN(myName));
 
 // if(isNaN(myName)){
 //     console.log("plz enter valid number");
@@ -58,10 +58,10 @@ console.log(typeof(imstandby));
 // isNaN(Number.NaN);
 // Number.isNaN(NaN);
 
-// console.log(NaN===NaN);
-// console.log(Number.NaN ===NaN);
-// console.log(Number.NaN);
-// console.log(isNaN(NaN));
-// console.log(Number.isNaN(NaN));
+console.log(NaN===NaN);
+console.log(Number.NaN ===NaN);
+console.log(Number.NaN);
+console.log(isNaN(NaN));
+console.log(Number.isNaN(NaN));
 
 

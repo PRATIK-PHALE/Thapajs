@@ -70,8 +70,8 @@ var myNum = ++num;
 
 // 4:- Logical operators
 
-var a =30;
-var b= -20;
+// var a =30;
+// var b= -20;
 
 // Logical operators are typically used with Boolean (Logical) values;
 // when they are , they return a boolean value.
@@ -91,11 +91,46 @@ var b= -20;
 // Logical NOt(!)
 // it makes truth to falsity and vice versa
 
-console.log(!((a>0)&& (b<0)));
-console.log(!true);
+// console.log(!((a>0)&& (b<0)));
+// console.log(!true);
+
+// 5 String Concatenation(operators)
+// The concatenation operator (+) concatenates two string values together,
+// returing another string that is the union of the two operand strings 
 
 
+// console.log("Hello WOrld");
 
+// .console.log("pratik"+"phale");
 
+// var myname ="phale";
+// console.log( myname + "pratik");
 
+// Challenge -------------------------------------------------------------------------------------------
+// sol-1
+// console.log(3**3);        //27
+// console.log(10**-1);          //-1
 
+// sol-2
+//  console.log(5+"pratik");
+
+//  sol-3
+// var a =5;
+// var b=10;
+// var c= b;
+// b=a;
+// a=c;
+// console.log(a);
+// console.log(b);
+
+// sol-4
+
+var a=5;
+var b=10;
+
+a=a+b;         //15
+b=a-b;          //5
+a=a-b;         //10
+
+console.log(a);
+console.log(b);
