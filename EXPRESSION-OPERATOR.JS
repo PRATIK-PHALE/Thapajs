@@ -23,7 +23,7 @@
 // console.log(10-6);
 // console.log(20/5);
 // console.log(5*8);
-//  console.log("remender operetor" + 28%7);
+//  console.log("remender operetor" + 29%7);
 
 
 
@@ -38,6 +38,7 @@ var num = 13;
 //  var myNum= num++ +5;
 //  var myNum= --num ;
 var myNum = ++num;
+
 
 // console.log(num);
 // console.log(myNum);
@@ -118,19 +119,19 @@ var myNum = ++num;
 // var a =5;
 // var b=10;
 // var c= b;
-// b=a;
-// a=c;
+// b=a; 
+// a=c;  
 // console.log(a);
 // console.log(b);
 
 // sol-4
 
-var a=5;
-var b=10;
+// var a=5;
+// var b=10;
 
-a=a+b;         //15
-b=a-b;          //5
-a=a-b;         //10
-
-console.log(a);
-console.log(b);
+// a=a+b;         //15
+// b=a-b;          //5
+// a=a-b;         //10
+                                                                                                                    
+// console.log(a); 
+// console.log(b);                                                     

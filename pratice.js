@@ -60,8 +60,12 @@
 
 console.log(NaN===NaN);
 console.log(Number.NaN ===NaN);
-console.log(Number.NaN);
 console.log(isNaN(NaN));
+console.log(isNaN(Number.NaN));
 console.log(Number.isNaN(NaN));
 
-
+var myname='pratik';
+console.log(myname);
+console.log(typeof(myname));
+var num =34;
+console.log(typeof(num));
